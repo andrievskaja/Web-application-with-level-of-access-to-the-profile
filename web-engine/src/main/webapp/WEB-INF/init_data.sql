@@ -1,0 +1,1 @@
+INSERT INTO User (id, email,name,  password, role) VALUES (1, 'admin','admin','e98b05331eccc2285f76386927373549c14a4a9a0dc9ab3f0cb2169cf4e7bb38894e9c3343ff6cbe','ROLE_ADMIN');
